@@ -1,0 +1,31 @@
+Steps to Run the Project
+
+Clone the Repository
+git clone <repository-url>
+cd <repository-directory>
+Install Dependencies
+
+Install client dependencies:
+Copy code
+cd client
+npm install
+Install server dependencies:
+
+Copy code
+cd ../server
+npm install
+Start the Project
+
+Run the client:
+Copy code
+cd ../client
+npm start
+
+Run the server:
+Copy code
+cd ../server
+npm start
+
+Verify the Setup
+Open a web browser and go to http://localhost:<> to view the client.
+Ensure the client and server are both running without errors.
